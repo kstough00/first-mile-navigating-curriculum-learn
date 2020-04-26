@@ -29,3 +29,9 @@ READMEs are lessons that only have instructional content. They are designed to t
 
 #### **Labs** 
 Labs are lessons with a coding challenge you must complete. A lab will require you to write code and submit a solution. All labs include a README that you will see on Learn. The lab README will describe the objectives, overview, and instructions for the code you must write. You should definitely read the lab README. If you're confused at any point, always go back to the README.
+
+As you can probably tell already, Learn is a big fan of the written word. Some READMEs have videos, but the majority of the content on Learn is text. We believe that with all the details and syntax involved in code – and since being a professional programmer is basically reading and writing text all day – the best way to learn to code is through reading and writing code, not by relying too heavily on watching videos.
+
+Some READMEs also contain brief interactive elements such as quizzes or little in-browser coding challenges.
+
+Once you've completed a lesson, you should click the "I'm Done" button on the right- hand side of your screen. The "Next Lesson" button will light up, allowing you to proceed. Clicking “I’m Done” also marks that lesson as complete so you receive credit for it.
