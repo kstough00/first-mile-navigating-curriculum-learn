@@ -24,4 +24,8 @@ Lessons you've completed will be filled in with a green circle, and your current
 
 There are two types of lessons on Learn: **READMEs** and **Labs.**
 
-<div align="center">The derogatory term “scrub” means several different things. One definition is someone (especially a game player) who is not good at something (especially a game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I mean the term differently, though. A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about. A scrub does not play to win.</div>
+#### **READMEs**
+READMEs are lessons that only have instructional content. They are designed to teach you something without challenging you to practice or implement the concept directly. READMEs provide context and exposition on a topic by breaking concepts down. READMEs are how you learn enough to solve a lab.
+
+#### **Labs** 
+Labs are lessons with a coding challenge you must complete. A lab will require you to write code and submit a solution. All labs include a README that you will see on Learn. The lab README will describe the objectives, overview, and instructions for the code you must write. You should definitely read the lab README. If you're confused at any point, always go back to the README.
