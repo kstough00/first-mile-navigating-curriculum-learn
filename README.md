@@ -18,7 +18,7 @@ A curriculum **"track"** is a collection of many lessons, organized into topics.
 # Lessons
 The individual pieces of curriculum on Learn are called **"lessons."** Before we go any further, let's get a little more familiar with how lessons work.
 
-Later lessons build off the earlier ones, so it is strongly advised that you complete each lesson before you advance to the next one. Use this navigation to go back and review earlier content if needed.
+Later lessons build off the earlier ones, so it is strongly advised that you complete each lesson before you advance to the next one. Use the navigation to go back and review earlier content if needed.
 
 Lessons you've completed will be filled in with a green circle, and your current lesson will be orange. You can always view your total lessons completed on your Learn.co profile page.
 
@@ -42,6 +42,6 @@ When you first start learning to code, the amount of setup you have to do to get
 Once you've completed your first portfolio project review, you'll switch to using a local environment. There are a lot of parts to a development environment, and the set up is different for different operating systems - [this guide](https://help.learn.co/en/articles/1394611-when-should-i-set-up-a-local-environment) points to the right instructions for each system.
 
 # Technology Requirements
-To get started in the Online Software Engineering Bootcamp, we do not require students to use a specific type of computer. The Learn IDE allows access to a full development environment within your web browser. If you’re considering purchasing a new computer, we do recommend a Mac. The majority of web developers use Macs at work, and it’s the most likely operating system you’ll encounter in your career. Any Mac laptop from the past five years in good condition will work well. Windows and Linux operating systems are also suitable. Chromebooks and tablets are not suitable for the program.
+To get started in the Online Software Engineering bootcamp, we do not require students to use a specific type of computer. The Learn IDE allows access to a full development environment within your web browser. If you’re considering purchasing a new computer, we do recommend a Mac. The majority of web developers use Macs at work, and it’s the most likely operating system you’ll encounter in your career. Any Mac laptop from the past five years in good condition will work well. Windows and Linux operating systems are also suitable. Chromebooks and tablets are not suitable for the program.
 
 We recommend using Google Chrome as your web browser for web development. It has great development tools and available add-ons. Learn.co is also best viewed in Chrome. You can download Chrome here: [https://www.google.com/chrome/](https://www.google.com/chrome/)
