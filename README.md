@@ -24,10 +24,10 @@ Lessons you've completed will be filled in with a green circle, and your current
 
 There are two types of lessons on Learn: **READMEs** and **Labs.**
 
-#### **READMEs**
+- #### **READMEs**
 READMEs are lessons that only have instructional content. They are designed to teach you something without challenging you to practice or implement the concept directly. READMEs provide context and exposition on a topic by breaking concepts down. READMEs are how you learn enough to solve a lab.
 
-#### **Labs** 
+- #### **Labs** 
 Labs are lessons with a coding challenge you must complete. A lab will require you to write code and submit a solution. All labs include a README that you will see on Learn. The lab README will describe the objectives, overview, and instructions for the code you must write. You should definitely read the lab README. If you're confused at any point, always go back to the README.
 
 As you can probably tell already, Learn is a big fan of the written word. Some READMEs have videos, but the majority of the content on Learn is text. We believe that with all the details and syntax involved in code – and since being a professional programmer is basically reading and writing text all day – the best way to learn to code is through reading and writing code, not by relying too heavily on watching videos.
